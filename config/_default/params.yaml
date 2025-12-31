@@ -13,7 +13,7 @@ hugoblox:
       secondary: ""
       neutral: ""
   typography:
-    font: sans
+    font: serif
     size: md
   layout:
     radius: md
